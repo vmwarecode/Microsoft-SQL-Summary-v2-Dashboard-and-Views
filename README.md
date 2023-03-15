@@ -1,1 +1,0 @@
-# Microsoft-SQL-Summary-v2-Dashboard-and-Views
